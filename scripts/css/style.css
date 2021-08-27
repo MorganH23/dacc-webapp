@@ -1,0 +1,7 @@
+body{
+    background-color:#a3dcbf;
+    background-image: url('../../images/plant_wallpaper.jpg');
+    background-repeat: repeat-y;
+    background-position: center;
+    color:rgb(255, 255, 255)
+}
