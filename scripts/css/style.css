@@ -1,7 +1,63 @@
 body{
     background-color:#a3dcbf;
-    background-image: url('../../images/plant_wallpaper.jpg');
-    background-repeat: repeat-y;
+    background-image: url('../../images/gothic-style-background.jpg');
+    background-repeat: repeat;
     background-position: center;
     color:rgb(255, 255, 255)
+}
+ul.ulnav{
+    border-radius: 5px;
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color:rgba(109, 89, 134, 0.514);
+}
+li.linav{
+    float:left;
+}
+li.linav a{
+    display: block;
+    color:rgb(146, 122, 153);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li.linav a.active{
+    display: block;
+    color:rgb(211, 211, 211);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li.linav a:hover{
+    background-color: rgb(51, 51, 51);
+}
+.vertical-menu {
+    width: 200px;
+  }
+  
+  .vertical-menu a {
+    background-color:transparent;
+    color: rgb(255, 255, 255);
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: rgb(51, 51, 51);
+  }
+  
+  .vertical-menu a.active {
+    background-color:black;
+    color: white;
+  }
+  h1 {text-align: center;}
+p {text-align: center;}
+a {text-align: center;}
+.center {
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
