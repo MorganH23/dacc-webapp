@@ -2,4 +2,6 @@
 
 Site created and maintained by Morgan Harper.
 
-Repo cloned on 8/27/21
+8/27/21 - Repo cloned
+8/30/21 - Added navigation
+8/31/21 - Added padding to paragraph, switched header style, added placeholders for other pages
