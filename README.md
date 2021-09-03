@@ -8,3 +8,4 @@ Site created and maintained by Morgan Harper.
 9/1/21 - Updated page layout, added project to project page, added contact info.
 9/2/21 - Updated all pages (some only minor updates), added demo.html for testing different code before adding to stylesheet or other pages, added appdevproject2 and template for projects.
          Note: atspace.com, subdomains are free
+Please refer to appdevproject1.html for further documentation.
